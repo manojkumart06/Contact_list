@@ -1,0 +1,74 @@
+body {
+    text-align: center;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.page-heading {
+    color: grey;
+}
+
+.list-items {
+    width: 34%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: hwb(210 9% 6%);
+    padding: 0; /* Remove default padding */
+    list-style: none; /* Remove default list styles */
+}
+
+.listing {
+    color: white;
+    border: 1px solid white;
+    padding: 10px;
+    font-weight: 600;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; /* Align items vertically */
+}
+
+.listing:hover{
+    background-color: gray;
+}
+
+.listing .phone {
+    margin-left: auto; /* Push phone number to the right */
+}
+
+.list-items li {
+    margin-bottom: 10px; /* Add space between list items */
+}
+
+.phno {
+    text-align: right; /* Align phone number to the right */
+}
+
+/* Basic styling for the input fields */
+input[type="text"],
+input[type="number"],
+button {
+    padding: 8px;
+    margin: 0 2px 0 2px;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    font-size: 14px;
+}
+
+.add-button{
+    width: 115px;
+    height: 35px;
+    background-color:black ;
+    color: white;
+    cursor: pointer;
+    border: none;
+    transition: background-color 0.3s;
+}
+
+.add-button:hover{
+    background-color: green
+}
+
+.listing .delete-button a{
+    color: rgb(247, 61, 61);
+    margin-left: 5px;
+}
