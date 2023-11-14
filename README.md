@@ -28,7 +28,7 @@ This is a web-based contact list application built using Express.js as the backe
 
 1. **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone <This repository>
     cd contact-list-app
     ```
 
@@ -90,6 +90,7 @@ This is a web-based contact list application built using Express.js as the backe
 
 This project is licensed under the [MIT License](LICENSE).
 
-## GitHub Repository
+## Application Screenshots
 
-Find the source code and contribute to the project on [GitHub](<insert-github-repo-url>).
+![Home Page]([image](https://github.com/manojkumart06/Contact_list/assets/61974981/c64a8258-19da-471f-80f8-f80c370be345)
+)
