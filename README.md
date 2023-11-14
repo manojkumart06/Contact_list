@@ -92,5 +92,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Application Screenshots
 
-![Home Page]([image](https://github.com/manojkumart06/Contact_list/assets/61974981/c64a8258-19da-471f-80f8-f80c370be345)
-)
+![Home Page](https://github.com/manojkumart06/Contact_list/assets/61974981/c64a8258-19da-471f-80f8-f80c370be345)
